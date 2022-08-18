@@ -27,3 +27,74 @@ body {
 
 
 }
+@media only screen and (max-width: 450px) {
+    html {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-width: 450px) {
+    html {
+        font-size: 14.3px;
+    }
+}
+
+@media only screen and (min-width: 520px) {
+    html {
+        font-size: 14.6px;
+    }
+}
+
+@media only screen and (min-width: 590px) {
+    html {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width: 620px) {
+    html {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (min-width: 710px) {
+    html {
+        font-size: 15.7px;
+    }
+}
+
+@media only screen and (min-width: 760px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 950px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    html {
+        font-size: 16.2px;
+    }
+}
+
+@media only screen and (min-width: 1250px) {
+    html {
+        font-size: 16.5px;
+    }
+}
+
+@media only screen and (min-width: 1430px) {
+    html {
+        font-size: 16.75px;
+    }
+}
+
+@media only screen and (min-width: 1650px) {
+    html {
+        font-size: 17px;
+    }
+}
